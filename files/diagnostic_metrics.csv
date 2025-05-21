@@ -1,0 +1,277 @@
+﻿name,oru_sonic_codes,diagnostic,diagnostic_groups,oru_sonic_units,units,min_age,max_age,gender,standard_lower,standard_higher,everlab_lower,everlab_higher
+Total Serum IgG,S IgG:,,,g/L,g/L,0,200,Any,7,16,6.36,17.78
+Alpha 1 Globulin,Alpha 1 Globulin,,,g/L,g/L,0,200,Any,2.2,4.1,2,4.56
+Alpha 2 Globulin,Alpha 2 Globulin,,,g/L,g/L,0,200,Any,4.9,8.7,4.45,9.67
+Beta 1 Globulin,Beta 1 Globulin,,,g/L,g/L,0,200,Any,3.4,5.8,3.09,6.44
+Beta 2 Globulin,Beta 2 Globulin,,,g/L,g/L,0,200,Any,2.1,4.9,1.91,5.44
+C282Y Mutation,C282Y Mutation,,,,,0,200,Any,,,,
+Gamma Globulin,Gamma Globulin,,,g/L,g/L,0,200,Any,7,16,6.36,17.78
+H63D Mutation,H63D Mutation,,,,,0,200,Any,,,,
+Hep B core Total Antibody,Hep B core Total Antibody,,,,,0,200,Any,,,,
+Holo-transcobalamin,Holo-transcobalamin:,,,pmol/L,pmol/L,0,200,Any,37,,37,
+Total Serum IgA,S IgA:,,,g/L,g/L,0,200,Any,0.7,4,0.64,4.44
+Total Serum IgM,S IgM:,,,g/L,g/L,0,200,Any,0.4,3,0.36,3.33
+Abdominal Aorta Imaging,,Abdominal Organ Ultrasound Screening,Upper Abdominal Ultrasound,,normal/abnormal ,0,200,Any,,,,
+Pancreas Imaging,,Abdominal Organ Ultrasound Screening,Upper Abdominal Ultrasound,,normal/abnormal ,0,200,Any,,,,
+Liver Imaging,,Abdominal Organ Ultrasound Screening,Upper Abdominal Ultrasound,,normal/abnormal ,0,200,Any,,,,
+Spleen Imaging,,Abdominal Organ Ultrasound Screening,Upper Abdominal Ultrasound,,normal/abnormal ,0,200,Any,,,,
+Gall Bladder Imaging,,Abdominal Organ Ultrasound Screening,Upper Abdominal Ultrasound,,normal/abnormal ,0,200,Any,,,,
+Kidneys Imaging,,Abdominal Organ Ultrasound Screening,Upper Abdominal Ultrasound,,normal/abnormal ,0,200,Any,,,,
+Active Straight-Leg Raise Right (FMS),,Active Straight-Leg Raise Test,,,/3,,,Any,,,,
+Active Straight-Leg Raise Left (FMS),,Active Straight-Leg Raise Test,,,/3,,,Any,,,,
+Squat 5RM (85%),,Advanced Muscle Strength and Stability Assessment,Advanced Physical Assessment,,kg,,,Any,,,,
+Overhead Press 5RM (85%),,Advanced Muscle Strength and Stability Assessment,Advanced Physical Assessment,,kg,,,Any,,,,
+Bench 5RM (85%),,Advanced Muscle Strength and Stability Assessment,Advanced Physical Assessment,,kg,,,Any,,,,
+Deadlift 5RM (85%),,Advanced Muscle Strength and Stability Assessment,Advanced Physical Assessment,,kg,,,Any,,,,
+Aldosterone,,Aldosterone,Aldosterone,,pg/mL,0,200,Any,30,160,27.27,177.78
+Alpha Fetoprotein,,Alpha Fetoprotein,AFP,,ng/mL,0,200,Any,0,10,,11.11
+Anti-CCP Antibodies,,Anti-CCP Antibodies,Anti-CCP Ab,,U/mL,0,200,Any,0,7,,7.78
+Anti-deamidated Gliadin Antibody,,Anti-deamidated Gliadin Antibody,Anti-deamidated Gliadin Antibody,,U/mL,0,200,Any,0,7,,7.78
+Antinuclear Antibody,ANA,Antinuclear Antibody,ANA,,titers,0,200,Any,0,140,,155.56
+Apolipoprotein B,Apolipoprotein B;Apoliprotein B,Apolipoprotein B,Apolipoprotein B,g/L,g/L,0,200,Any,0.7,1.3,0.64,1
+Apolipoprotein E Genotype,,Apolipoprotein E Genotype,Apolipoprotein E Genotype,,normal/abnormal ,0,200,Any,,,,
+Astrand Treadmill Test,,Astrand Treadmill Test,Basic Aerobic Capacity,,minutes,,,Any,,,,
+Australian Cardiovascular Disease 5 Year Risk Forecast,,Australian Cardiovascular Disease 5 Year Risk Forecast,Australian Cardiovascular Disease 5 Year Risk Forecast,,%,0,200,Any,,,,3.33
+Beta-HCG (Female),,Beta-HCG (Female),β-HCG (Female),,mIU/mL,0,200,Any,0,5,,5.56
+Blood Pressure Profile (Diastolic),,Blood Pressure Profile,Blood Pressure Profile,,mmHg,0,200,Any,50,90,45.45,83.33
+Blood Pressure Profile (Systolic),,Blood Pressure Profile,Blood Pressure Profile,,mmHg,0,200,Any,80,140,72.73,133.33
+Right Femoral Neck Density,,Bone Mineral Density Measurement,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,g/cm²,0,200,Any,,,,
+Left Femoral Neck Density,,Bone Mineral Density Measurement,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,g/cm²,0,200,Any,,,,
+Brain MRI,,Brain MRI,non-con screening MRI Brain,,,0,200,Any,,,,
+FEV1,,Breathing and Lung Function,Breathing and Lung Function,,Liters,0,200,Any,,,,
+C-reactive Protein,CRP;S C-Reactive Protein:,C-reactive Protein,CRP,mg/L,mg/L,0,200,Any,0,5,,3.33
+Chlamydia Screening Test,,Chlamydia Screening Test,FPU chlamydia NAAT,,normal/abnormal ,0,200,Any,,,,
+Activated Partial Thromboplastin Clotting Time,APTT,Clotting Function Profile,Clotting Profile,seconds,seconds,0,200,Any,20,32,18.18,35.56
+Thrombin Time,Thrombin Time,Clotting Function Profile,Clotting Profile,seconds,seconds,0,200,Any,14,21,12.73,23.33
+Fibrinogen,Fibrinogen,Clotting Function Profile,Clotting Profile,g/L,g/L,0,200,Any,2,4.5,1.82,5
+Prothrombin Time,Prothrombin Time,Clotting Function Profile,Clotting Profile,seconds,seconds,0,200,Any,10,14,9.09,15.56
+Prothrombin Ratio (INR),Prothrombin ratio (INR),Clotting Function Profile,Clotting Profile,ratio,ratio,0,200,Any,0.8,1.2,0.73,1.33
+Colonoscopy,,Colonoscopy,Colonoscopy,,normal/abnormal ,0,200,Any,,,,
+Continuous Glucose Monitor,,Continuous Glucose Monitor,Continuous Glucose Monitor,,normal/abnormal ,0,200,Any,,,,
+Copper,,Copper,Copper,,µmol/L,0,200,Any,11,22,10,24.44
+Height,,Core Biometric Measurements,Core Biometric Measurements,,cm,0,200,Any,,,,
+Weight,,Core Biometric Measurements,Core Biometric Measurements,,kg,0,200,Any,,,,
+Waist Circumference,,Core Biometric Measurements,Core Biometric Measurements,,cm,0,200,Any,,,,
+CT chest (everlab™ ultra-low dose protocol),,CT chest (everlab™ ultra-low dose protocol),Non-con CT chest (everlab™ ultra-low dose protocol),,normal/abnormal ,0,200,Any,,,,
+Non Cardiac Findings,,CT coronary angiogram (CTCA),CT coronary angiogram (CTCA),,normal/abnormal ,0,200,Any,,,,
+Noncoronary Cardiac Findings,,CT coronary angiogram (CTCA),CT coronary angiogram (CTCA),,normal/abnormal ,0,200,Any,,,,
+Coronary Artery Findings,,CT coronary angiogram (CTCA),CT coronary angiogram (CTCA),,normal/abnormal ,0,200,Any,,,,
+CT Coronary Calcium Score,,CT Coronary Calcium Score,CT Coronary Calcium Score,,Agatston units (AU),0,200,Any,0,,,
+Cystatin C,,Cystatin C - Alternative Kidney Function Screen,Cystatin C,,,0,200,Any,,,,
+Bodyweight Deep Squat (30s),,Deep Squat Assessment,Baseline Physical Assessment,,reps,0,200,Any,,,,
+Fat Mass Index (Male) 18-34,,Dexa Body Fat Analysis,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,ratio,18,34,Male,,,,5.33
+Android/Gynoid Ratio,,Dexa Body Fat Analysis,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,ratio,0,200,Any,,,,
+Total Body % Fat,,Dexa Body Fat Analysis,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,%,0,200,Any,,,,
+Total Fat Mass,,Dexa Body Fat Analysis,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,g,0,200,Any,,,,
+Estimated VAT volume,,Dexa Visceral Adipose Tissue Analysis,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,cm³,0,200,Any,,,,166.67
+Estimated VAT mass,,Dexa Visceral Adipose Tissue Analysis,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,g,0,200,Any,,,,166.67
+DHEA-S,,DHEA-S,DHEA-S,,µmol/L,0,200,Any,0.9,9.2,0.82,10.22
+EBV IgG serology,,EBV serology,EBV serology,,normal/abnormal ,0,200,Any,0,0.9,,1
+EBV IgM serology,,EBV serology,EBV serology,,normal/abnormal ,0,200,Any,0,0.9,,1
+Rhythm,,Electrocardiogram (ECG),ECG,,normal/abnormal ,0,200,Any,,,,
+Resting Heart Rate,HR,Electrocardiogram (ECG),ECG,/min;beats/min,bpm,0,200,Any,,,36.36,83.33
+Trace Morphology,,Electrocardiogram (ECG),ECG,,normal/abnormal ,0,200,Any,,,,
+Trace Morphology (P wave deg),P,Electrocardiogram (ECG),ECG,Deg;deg,,0,200,Any,,,,
+Trace Morphology (P wave length),P,Electrocardiogram (ECG),ECG,ms,,0,200,Any,,,,
+Trace Morphology (PQ interval length),PQ,Electrocardiogram (ECG),ECG,ms,,0,200,Any,,,,
+Trace Morphology (QRS complex deg),QRS,Electrocardiogram (ECG),ECG,Deg;deg,,0,200,Any,,,,
+Trace Morphology (QRS complex length),QRS,Electrocardiogram (ECG),ECG,ms,,0,200,Any,,,,
+Trace Morphology (T wave deg),T,Electrocardiogram (ECG),ECG,Deg;deg,,0,200,Any,,,,
+Trace Morphology (QTc length),QTc,Electrocardiogram (ECG),ECG,ms,,0,200,Any,,,,
+Trace Morphology (RR interval length),RR,Electrocardiogram (ECG),ECG,ms,,0,200,Any,,,,
+Trace Morphology (QT interval length),QT,Electrocardiogram (ECG),ECG,ms,,0,200,Any,,,,
+Serum Potassium,Potassium;S Potassium:,Electrolyte Panel,EUC,mmol/L,mmol/L,0,200,Any,3.5,5.5,3.18,6.11
+Serum Sodium,S Sodium:;Sodium,Electrolyte Panel,EUC,mmol/L,mmol/L,0,200,Any,135,145,122.73,161.11
+Serum Bicarbonate,Bicarbonate;S Bicarbonate:,Electrolyte Panel,EUC,mmol/L,mmol/L,0,200,Any,20,32,18.18,35.56
+Serum Chloride,Chloride;S Chloride:,Electrolyte Panel,EUC,mmol/L,mmol/L,0,200,Any,95,110,86.36,122.22
+Erythrocyte Sedimentation Rate,E.S.R.;ESR,Erythrocyte Sedimentation Rate,ESR,mm/h;mm/hr,mm/hr,0,200,Any,1,20,0.91,20
+Estradiol,S Oestradiol,Estradiol,Estradiol,pmol/L,pmol/L,0,200,Any,160,,145.45,
+Exercise Stress Echocardiogram (ESE),,Exercise Stress Echocardiogram (ESE),Exercise Stress Echocardiogram (ESE),,normal/abnormal ,0,200,Any,,,,
+Carcinoembryonic Antigen (CEA),,Extended Tumour Markers Screening,"CA 19-9,CEA",,ng/mL,0,200,Any,0,5,,5.56
+Cancer Antigen 19-9,,Extended Tumour Markers Screening,"CA 19-9,CEA",,U/mL,0,200,Any,0,37,,41.11
+Cancer Antigen 125 (Female),,Extended Tumour Markers Screening (Female),"CA 15-3,CA-125",,U/mL,0,200,Any,0,35,,38.89
+Cancer Antigen 15-3 (Female),,Extended Tumour Markers Screening (Female),"CA 15-3,CA-125",,U/mL,0,200,Any,0,30,,33.33
+Faecal Occult Blood,,Faecal Occult Blood,FOBT,,normal/abnormal ,0,200,Any,,,,
+Fasting Glucose,Fasting S Glucose;Glucose Fasting;Fasting P Glucose,Fasting Glucose,Fasting BSL,mmol/L,mmol/L,0,200,Any,3.6,6,3.27,5.89
+Fasting Insulin,"S Insulin (Fasting):;Insulin, Fasting",Fasting Insulin,Insulin - Fasting,mU/L,mU/L,0,200,Any,,17,,6
+Fatty Acid Profile - Omega 3 Index (EPA and DHA) and Omega 6 to 3 Ratio,,Fatty Acid Profile - Omega 3 Index (EPA and DHA) and Omega 6 to 3 Ratio,Omega 3 Index (EPA and DHA) and Omega 6 to 3 Ratio,,,0,200,Any,,,,
+Follicle-Stimulating Hormone,S FSH:,Follicle-Stimulating Hormone,FSH,IU/L,IU/L,0,200,Any,1.5,9.7,1.36,10.78
+Food Diary Analysis,,Food Diary Analysis,Cronometer,,,0,200,Any,,,,
+Free Testosterone,Calculated Free Testosterone;Free Test (VC),Free Testosterone,Free Testosterone,pmol/L,pmol/L,0,200,Any,260,740,236.36,822.22
+LDL Cholesterol,LDL Cholesterol;S LDL-Cholesterol:,Full Cholesterol Profiling,Lipids/HDL/LDL,mmol/L,mmol/L,0,200,Any,,3.5,,2.89
+HDL Cholesterol,HDL Cholesterol;S HDL-Cholesterol:,Full Cholesterol Profiling,Lipids/HDL/LDL,mmol/L,mmol/L,0,200,Any,1,,1.09,2.9
+Serum Triglycerides,S Triglycerides:;Triglycerides,Full Cholesterol Profiling,Lipids/HDL/LDL,mmol/L,mmol/L,0,200,Any,,1.5,,1.24
+Non HDL Cholesterol,Non HDL Cholesterol;Non-HDL Cholesterol,Full Cholesterol Profiling,Lipids/HDL/LDL,mmol/L,mmol/L,0,200,Any,,3.9,,2.78
+Total Cholesterol,Cholesterol;S Cholesterol:,Full Cholesterol Profiling,Lipids/HDL/LDL,mmol/L,mmol/L,0,200,Any,3.5,5.5,3.18,6.11
+Triglycerides to HDL-C Ratio,,Full Cholesterol Profiling,Lipids/HDL/LDL,,ratio,0,200,Any,,,,
+Total Cholesterol to HDL-C ratio,Chol/HDLC,Full Cholesterol Profiling,Lipids/HDL/LDL,ratio,ratio,0,200,Any,,4.5,,5
+Gastroscopy,,Gastroscopy,Gastroscopy,,normal/abnormal ,0,200,Any,,,,
+Gonorrhoea Screening Test,,Gonorrhoea Screening Test,FPU gonorrhoea NAAT,,normal/abnormal ,0,200,Any,,,,
+Dynamometer Grip Strength (Left),,Grip Strength Assessment,Baseline Physical Assessment,,kg,,,Any,,,,
+Dead Hang,,,,,seconds,,,Any,,,,
+Dynamometer Grip Strength (Right),,Grip Strength Assessment,Baseline Physical Assessment,,kg,,,Any,,,,
+Growth Hormone,,,,,ng/mL,0,200,Any,0.1,8,0.09,8.89
+Red Cell Count,Red cell count,Haemoglobin and Red Cell Analysis,FBE,x10*12/L,x10*12/L,0,200,Any,4.5,6.5,3.43,5.7
+Mean Corpuscular Haemoglobin (MCH),M.C.H.;MCH,Haemoglobin and Red Cell Analysis,FBE,pg,pg,0,200,Any,27,32,24.55,35.56
+Haemoglobin,Haemoglobin,Haemoglobin and Red Cell Analysis,FBE,g/L,g/L,0,200,Any,130,180,118.18,200
+Haematocrit,Haematocrit,Haemoglobin and Red Cell Analysis,FBE,,,0,200,Any,0.39,0.54,0.35,0.6
+Red Cell Distribution Width (RDW),RDW,Haemoglobin and Red Cell Analysis,FBE,,,0,200,Any,10,15,9.09,16.67
+Mean Corpuscular Haemoglobin Concentration (MCHC),M.C.H.C.;MCHC,Haemoglobin and Red Cell Analysis,FBE,g/L,g/L,0,200,Any,310,360,281.82,400
+Mean Corpuscular Volume (MCV),M.C.V.;MCV,Haemoglobin and Red Cell Analysis,FBE,fL,fL,0,200,Any,80,100,72.73,111.11
+HbA1c (IFCC),HBA1c (IFCC),HbA1c Test,HBA1c,mmol/mol,mmol/mol,0,200,Any,20,38,18.18,40
+HbA1c (NGSP),HbA1c (NGSP);B Glycosylated Haemoglobin (Hb A1c):,HbA1c Test,HBA1c,%,%,0,200,Any,4,5.6,3.64,6
+Estimated Average Glucose,Estimated Average Glucose,HbA1c Test,HBA1c,mmol/L,mmol/L,0,200,Any,,,,
+Helicobacter Breath Test,,Helicobacter Breath Test,Helicobacter Breath Test,,normal/abnormal ,0,200,Any,,,,
+Hepatitis A IgG Antibody,,Hepatitis A IgG Antibody,Hep A IgG Ab,,normal/abnormal ,0,200,Any,0.8,1.1,0.73,1.22
+Hepatitis B Surface Antibodies,,Hepatitis B Surface Antibodies,HBsAb,,IU/mL,0,200,Any,10,100,9.09,111.11
+Hepatitis B Surface Antigen,Hep B surface Antigen;Hepatitis B Surface Antigen:,Hepatitis B Surface Antigen,HBsAg,,IU/mL,0,200,Any,0,0.05,,0.06
+Hepatitis C Antibodies,Hepatitis C Antibody;Hepatitis C Antibodies (by Axsym MEIA):,Hepatitis C Antibodies,HCV AB,,normal/abnormal ,0,200,Any,,,,
+High Sensitivity C-Reactive Protein,S Sensitive CRP:,High Sensitivity C-Reactive Protein,HS-CRP,mg/L,mg/L,0,200,Any,,5,,2.22
+HOMA-IR,,HOMA-IR,HOMA-IR,,,0,200,Any,,,,1.67
+Homocysteine,Homocysteine;Plasma Homocysteine,Homocysteine,Homocysteine,umol/L,umol/L,0,200,Any,4,15,3.64,16.67
+Hurdle Step Right (FMS),,Hurdle Step Test,,,/3,,,Any,,,,
+Hurdle Step Left (FMS),,Hurdle Step Test,,,/3,,,Any,,,,
+Iga Anti-tissue Transglutaminase,,Iga Anti-tissue Transglutaminase,Iga Anti-tissue Transglutaminase,,U/mL,0,200,Any,0,7,,7.78
+Immunoglobulin E (IgE),S IgE:,Immunoglobulin E (IgE),IgE,kU/L,kU/L,0,200,Any,0,100,,111.11
+In-Home Sleep Test,,In-Home Sleep Test,In-Home Sleep Test,,normal/abnormal ,0,200,Any,,,,
+Inline Lunge Right (FMS),,,,,/3,,,Any,,,,
+Walking Lunge (30s),,Inline Lunge Test,Baseline Physical Assessment,,reps,,,Any,,,,
+Serum Transferrin,S Transferrin:;Transferrin;,Iron Levels Analysis,Iron Studies,g/L,g/L,0,200,Any,2,3.2,1.82,3.56
+Serum Iron,Iron;S Iron:,Iron Levels Analysis,Iron Studies,umol/L,umol/L,0,200,Any,5,30,4.55,33.33
+Serum Ferritin,S Ferritin:;Ferritin,Iron Levels Analysis,Iron Studies,ng/mL;ug/L,ng/mL,0,200,Any,30,500,27,444.44
+Transferrin Saturation,Saturation;Transferrin Saturation:,Iron Levels Analysis,Iron Studies,%,%,0,200,Any,10,45,9.09,50
+TIBC (Total Iron-Binding Capacity),TIBC (Calculated),Iron Levels Analysis,Iron Studies,umol/L,umol/L,0,200,Any,46,70,41.82,77.78
+Estimated Glomerular Filtration Rate (eGFR),eGFR,Kidney Function,EUC,mL/min/1.73m2,,0,200,Any,59,,53.64,
+Serum Urea,S Urea:;Urea,Kidney Function,EUC,mmol/L,mmol/L,0,200,Any,3,7.5,2.73,8.33
+Serum Creatinine,Creatinine;S Creatinine:,Kidney Function,EUC,umol/L,umol/L,0,200,Any,60,110,54.55,122.22
+Lactate Dehydrogenase,LDH;S LDH:,Lactate Dehydrogenase,LDH,U/L,U/L,0,200,Any,120,250,109.09,277.78
+Lean Mass Of Legs,,Lean Mass Index,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,g,0,200,Any,,,,
+Relative Skeletal Muscle Index (RSMI),,Lean Mass Index,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,ratio,0,200,Any,,,,
+Lean Mass Of Arms,,Lean Mass Index,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,g,0,200,Any,,,,
+Lipoprotein (a),Lipoprotein (a),Lipoprotein (a),Lipoprotein (a),g/L,g/L,0,200,Any,,0.3,,0.33
+Serum Bilirubin,S Bilirubin:;Total Bilirubin,Liver Function Panel,LFTs,umol/L,umol/L,0,200,Any,4,20,3.64,22.22
+Serum Alkaline Phosphatase,Alk Phos;S Alkaline Phosphatase:,Liver Function Panel,LFTs,U/L,U/L,0,200,Any,35,110,31.82,122.22
+Serum Alanine Aminotransferase,ALT;S ALT:,Liver Function Panel,LFTs,U/L,U/L,0,200,Any,5,40,4.55,44.44
+Serum Globulin,Globulin;S Globulin:,Liver Function Panel,LFTs,g/L,g/L,0,200,Any,23,39,20.91,43.33
+Serum Albumin,S Albumin:;Albumin;Albumin (Calculated),Liver Function Panel,LFTs,g/L,g/L,0,200,Any,39,50,35.45,55.56
+Serum Aspartate Transaminase,AST;S AST:,Liver Function Panel,LFTs,U/L,U/L,0,200,Any,10,40,9.09,44.44
+Serum Total Protein,S Total Protein:;Total Protein,Liver Function Panel,LFTs,g/L,g/L,0,200,Any,68,85,61.82,94.44
+Serum Gamma-GT,Gamma GT;S Gamma-GT:,Liver Function Panel,LFTs,U/L,U/L,0,200,Any,5,50,4.55,55.56
+IQR/Med Ratio,,Liver Stiffness Fibroscan,Fibroscan,,ratio,0,200,Any,,,,
+Median Liver Stiffness,,Liver Stiffness Fibroscan,Fibroscan,,kPa,0,200,Any,0,7,,7.78
+Controlled Attenuated Parameter (CAP),,Liver Stiffness Fibroscan,Fibroscan,,,0,200,Any,,,,
+Luteinizing Hormone,LH,Luteinizing Hormone,LH,IU/L,IU/L,0,200,Any,1.8,9.2,1.64,10.22
+Morning Serum Cortisol,Cortisol am;S CORTISOL (AM):,Morning Serum Cortisol,Cortisol - morning collection (serum),nmol/L,nmol/L,0,200,Any,133,537,120.91,537
+Farmer's Carry (50% BW),,Multifocal Combination Assessment,Advanced Physical Assessment,,seconds,,,Any,,,,
+Max Pull Ups (30s),,Multifocal Combination Assessment,Advanced Physical Assessment,,reps,,,Any,,,,
+Max Tuck Jumps (30s),,Multifocal Combination Assessment,Advanced Physical Assessment,,reps,,,Any,,,,
+Obesity/Sarcopenia Category,,Obesity/Sarcopenia Category,Obesity/Sarcopenia Category,,,0,200,Any,,,,
+Peak Fitness Level Assessment (VO2Max Testing),,Peak Fitness Level Assessment (VO2Max Testing),VO2 Max Aerobic Capacity,,mL/kg/min,0,200,Any,,,,
+Pelvic (Prostate) MRI,,Pelvic (Prostate) MRI,MRI Pelvis/Prostate,,normal/abnormal ,0,200,Any,,,,
+Pharmacogenetics Study,,Pharmacogenetics Study,Pharmacogenetics Study,,normal/abnormal ,0,200,Any,,,,
+Plank Time,,Plank Hold Assessment (Core Strength),Baseline Physical Assessment,,seconds,,,Any,,,,
+Platelets,PLATELETS;Platelets,Platelet Count,FBE,x 10*9/L;x10*9/L,x10*9/L,0,200,Any,150,450,136.36,500
+Progesterone,Progesterone,Progesterone,Progesterone,nmol/L,nmol/L,0,200,Any,0.7,4.3,0.64,4.78
+Prolactin,,Prolactin,Prolactin,,ng/mL,0,200,Any,2.5,17,2.27,18.89
+Prostate-specific Antigen (PSA) (Male),PSA,Prostate-Specific Antigen (Male),PSA,ug/L,ug/L,0,200,Any,0.25,2.5,0.23,2.78
+Healthy Heart Age,,Qrisk®3-2018 (UK) Heart Attack/Stroke Risk Forecast,Qrisk®3-2018 (UK) Heart Attack/Stroke Risk Forecast,,,0,200,Any,,,,
+"Comparable Risk of a Healthy Person with the same Age, Sex, and Ethnicity",,Qrisk®3-2018 (UK) Heart Attack/Stroke Risk Forecast,Qrisk®3-2018 (UK) Heart Attack/Stroke Risk Forecast,,%,0,200,Any,,,,
+Risk of a Heart Attack or Stroke within the Next 10 Years,,Qrisk®3-2018 (UK) Heart Attack/Stroke Risk Forecast,Qrisk®3-2018 (UK) Heart Attack/Stroke Risk Forecast,,%,0,200,Any,,,,
+Random Glucose,Glucose Random;Random S Glucose AM;Random P Glucose AM,Random Glucose,Random BSL,mmol/L,mmol/L,0,200,Any,3.6,7.7,3.27,8.56
+Random Insulin,"Insulin, Random",Random Insulin,Random Insulin,mU/L,mU/L,0,200,Any,,,,
+RAST Panel,,RAST Panel,"""RAST (Rye grass, Dust mite, Cat, Dog)""",,normal/abnormal ,0,200,Any,,,,
+Renal Tract Ultrasound,,Renal Tract Ultrasound,Renal Tract Ultrasound,,normal/abnormal ,0,200,Any,,,,
+Renin Level,,Renin Level,Renin,,pg/mL,0,200,Any,2.9,41.9,2.64,46.56
+Resting Metabolic Rate (Cunningham Equation),,Resting Metabolic Rate Profiling,Resting Metabolic Rate Profiling,,cal/day,0,200,Any,,,,
+Resting Metabolic Rate (Harris Benedict Calculation),,Resting Metabolic Rate Profiling,Resting Metabolic Rate Profiling,,cal/day,0,200,Any,,,,
+Rheumatoid Factor (RF),,Rheumatoid Factor (RF),RF,,IU/mL,0,200,Any,0,14,,15.56
+Rotary Stability Right (FMS),,Rotary Stability Test,,,/3,,,Any,,,,
+Rotary Stability Left (FMS),,Rotary Stability Test,,,/3,,,Any,,,,
+Scrotal Ultrasound,,Scrotal Ultrasound,Scrotal Ultrasound,,normal/abnormal ,,,Any,,,,
+Serum Calcium,S Calcium:;Calcium;P Ionized Calcium:,Serum Calcium,Serum Calcium,mmol/L,mmol/L,0,200,Any,2.15,2.55,1.95,2.83
+Corrected Calcium,Corrected Calcium;S Calcium (corrected):;S Calcium (corrected),Serum Calcium,Serum Calcium,mmol/L,mmol/L,0,200,Any,2.15,2.55,1.95,2.83
+Serum Folate,S Folate:;Serum Folate;B Red Cell Folate:,Serum Folate,Folate,nmol/L,nmol/L,0,200,Any,6,,5.45,
+Serum Lead Level (ug/dL),Lead-blood,Serum Lead Level,Blood Lead,ug/dL,ug/dL,0,200,Any,0,0.24,,0.17
+Serum Lead Level (umol/L),Lead-blood,Serum Lead Level,Blood Lead,umol/L,umol/L,0,200,Any,0,0.24,,0.17
+Serum Magnesium,S Magnesium:;Magnesium,Serum Magnesium,Mg,mmol/L,mmol/L,0,200,Any,0.65,1,0.68,1.11
+Serum Mercury Level,Mercury-blood,Serum Mercury Level,Blood Mercury,nmol/L,nmol/L,0,200,Any,,60,,44.44
+Serum Parathyroid Hormone,,Serum Parathyroid Hormone,Serum PTH,,,0,200,Any,,,,
+Serum Phosphate,S Inorganic Phosphate:;Phosphate,Serum Phosphate,Serum Phosphate,mmol/L,mmol/L,0,200,Any,0.8,1.5,0.73,1.67
+Sex Hormone Binding Globulin,SHBG,Sex Hormone Binding Globulin,SHBG,nmol/L,nmol/L,0,200,Any,15,50,13.64,55.56
+Shoulder Immobility Right (FMS),,Shoulder Immobility Assessment,,,/3,,,Any,,,,
+Shoulder Immobility Left (FMS),,Shoulder Immobility Assessment,,,/3,,,Any,,,,
+Single Leg Squat (Left) (30s),,Single Leg Squat,Baseline Physical Assessment,,reps,,,Any,,,,
+Single Leg Squat (Right) (30s),,Single Leg Squat,Baseline Physical Assessment,,reps,,,Any,,,,
+Spine MRI,,Spine MRI,non-con screening MRI Spine,,normal/abnormal ,0,200,Any,,,,
+Stand & Reach Test,,Stand & Reach Test,,,cm,,,Any,,,,
+Testosterone Level,S Testosterone;Testosterone,Testosterone Level,Testosterone,nmol/L,nmol/L,0,200,Any,11.5,32,10.45,35.56
+Thyroglobulin Antibodies (Tgab),TgAb;Thyroglobulin Ab,Thyroglobulin Antibodies (Tgab),Thyroglobulin Antibodies (Tgab),IU/mL,IU/mL,0,200,Any,,115,,127.78
+Thyroid Peroxidase (Tpo),Thyroid Peroxidase Ab,Thyroid Peroxidase (Tpo),TPO,IU/mL,IU/mL,0,200,Any,,5.6,,6.22
+Thyroid Stimulating Hormone (TSH),TSH;TSH (Roche),Thyroid Stimulating Hormone (TSH),TSH,mU/L;mIU/L,mIU/L,0,200,Any,0.5,5.5,0.45,4.44
+Thyroid Ultrasound,,Thyroid Ultrasound,Thyroid Ultrasound,,normal/abnormal ,0,200,Any,,,,
+Thyroxine (T4) Free,Free T4;FT4 (Roche),Thyroxine (T4) Free,Free T4,pmol/L,pmol/L,0,200,Any,11,22,10,24.44
+Total Serum IgA,,Total Serum IgA,Total IgA,,g/L,0,200,Any,0.7,4,0.64,4.44
+Triiodothyronine (T3) Free,Free T3,Triiodothyronine (T3) Free,Free T3,pmol/L,pmol/L,0,200,Any,2.6,6,2.36,6.67
+Push Ups (30s),,Trunk Stability Push-Up Test,Baseline Physical Assessment,,reps,,,Any,,,,
+The Ten Year Probability Of Major Osteoporotic Fracture (%),,University Of Sheffield Fracture Risk Assessment,University Of Sheffield Fracture Risk Assessment,,%,0,200,Any,,,,
+The Ten Year Probability Of Hip Fracture (%),,University Of Sheffield Fracture Risk Assessment,University Of Sheffield Fracture Risk Assessment,,%,0,200,Any,,,,
+Uric Acid (Male),,Uric Acid,Uric Acid,,mmol/L,0,200,Male,0.2,0.5,0.18,0.46
+Urinalysis Test,,Urinalysis Test,MSU MCS,,normal/abnormal ,0,200,Any,,,,
+Random Urinary Creatinine,"U Creatinine, random;U-Creatinine",Urinary Albumin-to-Creatinine Ratio (Early Kidney Protein Loss Detection),FPU uACR,mmol/L,mmol/L,0,200,Any,,,,
+Random Urinary Albumin,"U Albumin, random;R U-Albumin",Urinary Albumin-to-Creatinine Ratio (Early Kidney Protein Loss Detection),FPU uACR,mg/L,mg/L,0,200,Any,,,,
+Urinary Albumin-to-Creatinine Ratio,U Albumin/Creatinine ratio;R U-Albumin/Creat,Urinary Albumin-to-Creatinine Ratio (Early Kidney Protein Loss Detection),FPU uACR,mg/mmol,mg/mmol,0,200,Any,3.5,,,2.78
+Vitamin B12,Vitamin B12;Total Vitamin B12:;,Vitamin B12,Vit B12,pmol/L,pmol/L,0,200,Any,200,700,181.82,777.78
+Vitamin D3,25-Hydroxy Vitamin D;Vitamin D,Vitamin D3,Vit D,nmol/L,nmol/L,0,200,Any,50,250,45.45,277.78
+Neutrophils,Neutrophils,White Cell Count and Profile,FBE,x10*9/L,x10*9/L,0,200,Any,2,7.5,1.82,8.33
+Eosinophils,Eosinophils,White Cell Count and Profile,FBE,x10*9/L,x10*9/L,0,200,Any,0,0.5,,0.56
+Basophils,Basophils,White Cell Count and Profile,FBE,x10*9/L,x10*9/L,0,200,Any,0,0.3,,0.33
+Lymphocytes,Lymphocytes,White Cell Count and Profile,FBE,x10*9/L,x10*9/L,0,200,Any,1,4,0.91,4.44
+Monocytes,Monocytes,White Cell Count and Profile,FBE,x10*9/L,x10*9/L,0,200,Any,0,1,,1.11
+Total White Cell Count,White cell count,White Cell Count and Profile,FBE,x10*9/L,x10*9/L,0,200,Any,4,11,3.64,12.22
+Zinc Level,Serum Zinc;Zinc-plasma,Zinc Level,Zinc,umol/L,umol/L,0,200,Any,9,19,8.18,21.11
+Honey bee venom,Honey bee venom,,,kU/L,kU/L,0,200,Any,,,,
+Paper wasp venom,Paper wasp venom,,,kU/L,kU/L,0,200,Any,,,,
+Tryptase,Tryptase,,,ug/L,ug/L,0,200,Any,,13.5,,15
+Yellow jacket venom,Yellow jacket venom,,,kU/L,kU/L,0,200,Any,,,,
+Dustmite,Dustmite,,,kU/L,kU/L,0,200,Any,,,,
+Staple Food Mix,Staple Food Mix,,,kU/L,kU/L,0,200,Any,,,,
+Perennial rye grass,Perennial rye grass,,,,,0,200,Any,,,,
+Alternaria alternata,Alternaria alternata,,,kU/L,kU/L,0,200,Any,,,,
+Creatine kinase,CK,,,U/L,U/L,0,200,Any,45,250,40.91,277.78
+Lipase,Lipase,,,U/L,U/L,0,200,Any,10,55,9.09,61.11
+EIA Antigen,EIA Antigen:,,,,,0,200,Any,,,,
+Endomysial Antibodies,Endomysial Antibodies:,,,,,0,200,Any,,,,
+HIV Antibodies,HIV 1/2 Antibodies:;HIV 1/2 Antigen/Antibody,,,,,0,200,Any,,,,
+"1,25 Dihydroxycalciferol","1,25 Dihydroxycalciferol",,,pmol/L,pmol/L,0,200,Any,60,208,54.55,231.11
+Extractable Nuclear Antigens,Extractable Nuclear Antigens:,,,,,0,200,Any,,,,
+Syphilis Ab,Syphilis Ab,,,,,0,200,Any,,,,
+Rubella IgG,Rubella IgG,,,IU/mL,IU/mL,0,200,Any,,,,
+Varicella zoster IgG,Varicella zoster IgG:,,,,,0,200,Any,,,,
+Blood Group,Blood Group,,,,,0,200,Any,,,,
+Blood Group Antibody screen,Antibody screen,,,,,0,200,Any,,,,
+FVC,,Breathing and Lung Function,Breathing and Lung Function,,Liters,0,200,Any,,,,
+FEF-25-75,,Breathing and Lung Function,Breathing and Lung Function,,Liters,0,200,Any,,,,
+FEF75,,Breathing and Lung Function,Breathing and Lung Function,,Liters,0,200,Any,,,,
+IGF-1,,Insulin-like growth factor 1,IGF-1,,ng/mL,0,200,Any,0.1,8,0.09,8.89
+Lumbar Spine Density,,Bone Mineral Density Measurement,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,g/cm²,0,200,Any,,,,
+Right Femoral Neck Density Standardised Comparison,,Bone Mineral Density Measurement,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,Z-Score,0,200,Any,,,-0.56,
+Left Femoral Neck Density Standardised Comparison,,Bone Mineral Density Measurement,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,Z-Score,0,200,Any,,,-0.56,
+Lumbar Spine Density Standardised Comparison,,Bone Mineral Density Measurement,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,Z-Score,0,200,Any,,,-0.56,
+FEV1 Standardised Comparison,,Breathing and Lung Function,Breathing and Lung Function,,Z-Score,0,200,Any,,,-0.56,
+FVC Standardised Comparison,,Breathing and Lung Function,Breathing and Lung Function,,Z-Score,0,200,Any,,,-0.56,
+FEF-25-75 Standardised Comparison,,Breathing and Lung Function,Breathing and Lung Function,,Z-Score,0,200,Any,,,-0.56,
+FEF75 Standardised Comparison,,Breathing and Lung Function,Breathing and Lung Function,,Z-Score,0,200,Any,,,-0.56,
+FEV1 % Predicted,,Breathing and Lung Function,Breathing and Lung Function,,% Predicted,0,200,Any,,,,
+FVC % Predicted,,Breathing and Lung Function,Breathing and Lung Function,,% Predicted,0,200,Any,,,,
+FEF-25-75 % Predicted,,Breathing and Lung Function,Breathing and Lung Function,,% Predicted,0,200,Any,,,,
+FEF75 % Predicted,,Breathing and Lung Function,Breathing and Lung Function,,% Predicted,0,200,Any,,,,
+Fat Mass Index (Female) 18-34,,Dexa Body Fat Analysis,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,ratio,18,34,Female,,,2.91,5.56
+Fat Mass Index (Male) 35-54,,Dexa Body Fat Analysis,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,ratio,35,54,Male,,,,5.39
+Fat Mass Index (Male) 55-74,,Dexa Body Fat Analysis,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,ratio,55,74,Male,,,,6.39
+Fat Mass Index (Male) 75+,,Dexa Body Fat Analysis,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,ratio,75,200,Male,,,,7.11
+Fat Mass Index (Female) 35-54,,Dexa Body Fat Analysis,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,ratio,35,54,Female,,,3.36,6.67
+Fat Mass Index (Female) 55-74,,Dexa Body Fat Analysis,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,ratio,55,74,Female,,,3.91,8
+Fat Mass Index (Female) 75+,,Dexa Body Fat Analysis,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,ratio,75,200,Female,,,4.73,8.44
+Uric Acid (Female),,Uric Acid,Uric Acid,,mmol/L,0,200,Female,0.2,0.5,0.13,0.39
+Uric Acid,S Uric Acid:;Urate,Uric Acid,Uric Acid,mmol/L,mmol/L,0,200,Any,0.2,0.5,0.18,0.41
+Fat Mass Index,,Dexa Body Fat Analysis,DEXA Body Composition Scan + Full Bone Mineral Density Scan,,ratio,18,34,Male,,,,4.11

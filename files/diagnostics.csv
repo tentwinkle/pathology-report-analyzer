@@ -1,0 +1,127 @@
+﻿name,diagnostic_groups,diagnostic_metrics
+Random Insulin,Random Insulin,Random Insulin
+Lactate Dehydrogenase,LDH,Lactate Dehydrogenase
+Random Glucose,Random BSL,Random Glucose
+Immunoglobulin E (IgE),IgE,Immunoglobulin E (IgE)
+RAST Panel,"""RAST (Rye grass, Dust mite, Cat, Dog)""",RAST Panel
+Breathing and Lung Function,Breathing and Lung Function,"FEV1,FVC,FEF-25-75,FEF75,FEV1 Standardised Comparison,FVC Standardised Comparison,FEF-25-75 Standardised Comparison,FEF75 Standardised Comparison,FEV1 % Predicted,FVC % Predicted,FEF-25-75 % Predicted,FEF75 % Predicted"
+Thyroid Ultrasound,Thyroid Ultrasound,Thyroid Ultrasound
+Renal Tract Ultrasound,Renal Tract Ultrasound,Renal Tract Ultrasound
+Pelvic (Prostate) MRI,MRI Pelvis/Prostate,Pelvic (Prostate) MRI
+CT chest (everlab™ ultra-low dose protocol),Non-con CT chest (everlab™ ultra-low dose protocol),CT chest (everlab™ ultra-low dose protocol)
+Prostate-Specific Antigen (Male),PSA,Prostate-specific Antigen (PSA) (Male)
+Urinalysis Test,MSU MCS,Urinalysis Test
+Extended Tumour Markers Screening (Female),"CA 15-3,CA-125","Cancer Antigen 15-3 (Female),Cancer Antigen 125 (Female)"
+Extended Tumour Markers Screening,"CA 19-9,CEA","Cancer Antigen 19-9,Carcinoembryonic Antigen (CEA)"
+Beta-HCG (Female),β-HCG (Female),Beta-HCG (Female)
+Thyroglobulin Antibodies (Tgab),Thyroglobulin Antibodies (Tgab),Thyroglobulin Antibodies (Tgab)
+Alpha Fetoprotein,AFP,Alpha Fetoprotein
+Thyroid Peroxidase (Tpo),TPO,Thyroid Peroxidase (Tpo)
+Helicobacter Breath Test,Helicobacter Breath Test,Helicobacter Breath Test
+Faecal Occult Blood,FOBT,Faecal Occult Blood
+Colonoscopy,Colonoscopy,Colonoscopy
+Gastroscopy,Gastroscopy,Gastroscopy
+Liver Stiffness Fibroscan,Fibroscan,"Median Liver Stiffness,Controlled Attenuated Parameter (CAP),IQR/Med Ratio"
+Abdominal Organ Ultrasound Screening,Upper Abdominal Ultrasound,"Gall Bladder Imaging,Pancreas Imaging,Kidneys Imaging,Spleen Imaging,Abdominal Aorta Imaging,Liver Imaging"
+Scrotal Ultrasound,Scrotal Ultrasound,Scrotal Ultrasound
+Exercise Stress Echocardiogram (ESE),Exercise Stress Echocardiogram (ESE),Exercise Stress Echocardiogram (ESE)
+CT coronary angiogram (CTCA),CT coronary angiogram (CTCA),"Coronary Artery Findings,Non Cardiac Findings,Noncoronary Cardiac Findings"
+Erythrocyte Sedimentation Rate,ESR,Erythrocyte Sedimentation Rate
+Full Cholesterol Profiling,Lipids/HDL/LDL,"Total Cholesterol,Non HDL Cholesterol,Serum Triglycerides,HDL Cholesterol,LDL Cholesterol,Total Cholesterol to HDL-C ratio,Triglycerides to HDL-C Ratio"
+Lipoprotein (a),Lipoprotein (a),Lipoprotein (a)
+High Sensitivity C-Reactive Protein,HS-CRP,High Sensitivity C-Reactive Protein
+Renin Level,Renin,Renin Level
+Apolipoprotein B,Apolipoprotein B,Apolipoprotein B
+Blood Pressure Profile,Blood Pressure Profile,"Blood Pressure Profile (Diastolic),Blood Pressure Profile (Systolic)"
+C-reactive Protein,CRP,C-reactive Protein
+CT Coronary Calcium Score,CT Coronary Calcium Score,CT Coronary Calcium Score
+Australian Cardiovascular Disease 5 Year Risk Forecast,Australian Cardiovascular Disease 5 Year Risk Forecast,Australian Cardiovascular Disease 5 Year Risk Forecast
+Qrisk®3-2018 (UK) Heart Attack/Stroke Risk Forecast,Qrisk®3-2018 (UK) Heart Attack/Stroke Risk Forecast,"Risk of a Heart Attack or Stroke within the Next 10 Years,Healthy Heart Age,""Comparable Risk of a Healthy Person with the same Age, Sex, and Ethnicity"""
+Apolipoprotein E Genotype,Apolipoprotein E Genotype,Apolipoprotein E Genotype
+Pharmacogenetics Study,Pharmacogenetics Study,Pharmacogenetics Study
+Hepatitis A IgG Antibody,Hep A IgG Ab,Hepatitis A IgG Antibody
+Iga Anti-tissue Transglutaminase,Iga Anti-tissue Transglutaminase,Iga Anti-tissue Transglutaminase
+Serum Phosphate,Serum Phosphate,Serum Phosphate
+White Cell Count and Profile,FBE,"Eosinophils,Lymphocytes,Monocytes,Neutrophils,Total White Cell Count,Basophils"
+Homocysteine,Homocysteine,Homocysteine
+Iron Levels Analysis,Iron Studies,"Serum Iron,Transferrin Saturation,Serum Transferrin,Serum Ferritin,TIBC (Total Iron-Binding Capacity)"
+Total Serum IgA,Total IgA,Total Serum IgA
+Vitamin B12,Vit B12,Vitamin B12
+Anti-deamidated Gliadin Antibody,Anti-deamidated Gliadin Antibody,Anti-deamidated Gliadin Antibody
+EBV serology,EBV serology,"EBV IgG serology,EBV IgM serology"
+Hepatitis B Surface Antigen,HBsAg,Hepatitis B Surface Antigen
+Serum Folate,Folate,Serum Folate
+Vitamin D3,Vit D,Vitamin D3
+Hepatitis B Surface Antibodies,HBsAb,Hepatitis B Surface Antibodies
+Serum Magnesium,Mg,Serum Magnesium
+Zinc Level,Zinc,Zinc Level
+Serum Calcium,Serum Calcium,"Serum Calcium,Corrected Calcium"
+Hepatitis C Antibodies,HCV AB,Hepatitis C Antibodies
+Dexa Visceral Adipose Tissue Analysis,DEXA Body Composition Scan + Full Bone Mineral Density Scan,"Estimated VAT volume,Estimated VAT mass"
+Continuous Glucose Monitor,Continuous Glucose Monitor,Continuous Glucose Monitor
+Morning Serum Cortisol,Cortisol - morning collection (serum),Morning Serum Cortisol
+Serum Lead Level,Blood Lead,"Serum Lead Level (ug/dL),Serum Lead Level (umol/L)"
+Food Diary Analysis,Cronometer,Food Diary Analysis
+Copper,Copper,Copper
+Fatty Acid Profile - Omega 3 Index (EPA and DHA) and Omega 6 to 3 Ratio,Omega 3 Index (EPA and DHA) and Omega 6 to 3 Ratio,Fatty Acid Profile - Omega 3 Index (EPA and DHA) and Omega 6 to 3 Ratio
+Serum Mercury Level,Blood Mercury,Serum Mercury Level
+Core Biometric Measurements,Core Biometric Measurements,"Waist Circumference,Height,Weight"
+Chlamydia Screening Test,FPU chlamydia NAAT,Chlamydia Screening Test
+Gonorrhoea Screening Test,FPU gonorrhoea NAAT,Gonorrhoea Screening Test
+Prolactin,Prolactin,Prolactin
+Fasting Insulin,Insulin - Fasting,Fasting Insulin
+Uric Acid,Uric Acid,"Uric Acid (Male),Uric Acid (Female),Uric Acid"
+Estradiol,Estradiol,Estradiol
+Testosterone Level,Testosterone,Testosterone Level
+Growth Hormone,Growth Hormone,
+Progesterone,Progesterone,Progesterone
+Fasting Glucose,Fasting BSL,Fasting Glucose
+Serum Parathyroid Hormone,Serum PTH,Serum Parathyroid Hormone
+HbA1c Test,HBA1c,"HbA1c (IFCC),HbA1c (NGSP),Estimated Average Glucose"
+Free Testosterone,Free Testosterone,Free Testosterone
+Luteinizing Hormone,LH,Luteinizing Hormone
+Follicle-Stimulating Hormone,FSH,Follicle-Stimulating Hormone
+Sex Hormone Binding Globulin,SHBG,Sex Hormone Binding Globulin
+Dexa Body Fat Analysis,DEXA Body Composition Scan + Full Bone Mineral Density Scan,"Total Body % Fat,Total Fat Mass,Fat Mass Index (Male) 18-34,Android/Gynoid Ratio,Fat Mass Index (Female) 18-34,Fat Mass Index (Male) 35-54,Fat Mass Index (Male) 55-74,Fat Mass Index (Male) 75+,Fat Mass Index (Female) 35-54,Fat Mass Index (Female) 55-74,Fat Mass Index (Female) 75+,Fat Mass Index"
+HOMA-IR,HOMA-IR,HOMA-IR
+Obesity/Sarcopenia Category,Obesity/Sarcopenia Category,Obesity/Sarcopenia Category
+Resting Metabolic Rate Profiling,Resting Metabolic Rate Profiling,"Resting Metabolic Rate (Harris Benedict Calculation),Resting Metabolic Rate (Cunningham Equation)"
+Insulin-like growth factor 1,IGF-1,IGF-1
+Brain MRI,non-con screening MRI Brain,Brain MRI
+Spine MRI,non-con screening MRI Spine,Spine MRI
+Clotting Function Profile,Clotting Profile,"Activated Partial Thromboplastin Clotting Time,Fibrinogen,Prothrombin Time,Prothrombin Ratio (INR),Thrombin Time"
+DHEA-S,DHEA-S,DHEA-S
+Electrocardiogram (ECG),ECG,"Resting Heart Rate,Trace Morphology,Rhythm,Trace Morphology (P wave deg),Trace Morphology (P wave length),Trace Morphology (PQ interval length),Trace Morphology (QRS complex deg),Trace Morphology (QRS complex length),Trace Morphology (T wave deg),Trace Morphology (QTc length),Trace Morphology (RR interval length),Trace Morphology (QT interval length)"
+Urinary Albumin-to-Creatinine Ratio (Early Kidney Protein Loss Detection),FPU uACR,"Random Urinary Albumin,Random Urinary Creatinine,Urinary Albumin-to-Creatinine Ratio"
+Liver Function Panel,LFTs,"Serum Aspartate Transaminase,Serum Albumin,Serum Bilirubin,Serum Globulin,Serum Alkaline Phosphatase,Serum Gamma-GT,Serum Total Protein,Serum Alanine Aminotransferase"
+Haemoglobin and Red Cell Analysis,FBE,"Mean Corpuscular Haemoglobin Concentration (MCHC),Haemoglobin,Mean Corpuscular Volume (MCV),Haematocrit,Red Cell Count,Red Cell Distribution Width (RDW),Mean Corpuscular Haemoglobin (MCH)"
+Aldosterone,Aldosterone,Aldosterone
+Electrolyte Panel,EUC,"Serum Bicarbonate,Serum Chloride,Serum Sodium,Serum Potassium"
+Kidney Function,EUC,"Serum Urea,Serum Creatinine,Estimated Glomerular Filtration Rate (eGFR)"
+Rheumatoid Factor (RF),RF,Rheumatoid Factor (RF)
+Anti-CCP Antibodies,Anti-CCP Ab,Anti-CCP Antibodies
+Thyroid Stimulating Hormone (TSH),TSH,Thyroid Stimulating Hormone (TSH)
+Platelet Count,FBE,Platelets
+Thyroxine (T4) Free,Free T4,Thyroxine (T4) Free
+Antinuclear Antibody,ANA,Antinuclear Antibody
+Triiodothyronine (T3) Free,Free T3,Triiodothyronine (T3) Free
+Cystatin C - Alternative Kidney Function Screen,Cystatin C,Cystatin C
+In-Home Sleep Test,In-Home Sleep Test,In-Home Sleep Test
+Peak Fitness Level Assessment (VO2Max Testing),VO2 Max Aerobic Capacity,Peak Fitness Level Assessment (VO2Max Testing)
+Bone Mineral Density Measurement,DEXA Body Composition Scan + Full Bone Mineral Density Scan,"Left Femoral Neck Density,Right Femoral Neck Density,Lumbar Spine Density,Right Femoral Neck Density Standardised Comparison,Left Femoral Neck Density Standardised Comparison,Lumbar Spine Density Standardised Comparison"
+University Of Sheffield Fracture Risk Assessment,University Of Sheffield Fracture Risk Assessment,"The Ten Year Probability Of Major Osteoporotic Fracture (%),The Ten Year Probability Of Hip Fracture (%)"
+Lean Mass Index,DEXA Body Composition Scan + Full Bone Mineral Density Scan,"Lean Mass Of Arms,Lean Mass Of Legs,Relative Skeletal Muscle Index (RSMI)"
+Astrand Treadmill Test,Basic Aerobic Capacity,Astrand Treadmill Test
+Plank Hold Assessment (Core Strength),Baseline Physical Assessment,Plank Time
+Grip Strength Assessment,Baseline Physical Assessment,"Dynamometer Grip Strength (Left),Dynamometer Grip Strength (Right)"
+Stand & Reach Test,,Stand & Reach Test
+Deep Squat Assessment,Baseline Physical Assessment,Bodyweight Deep Squat (30s)
+Hurdle Step Test,,"Hurdle Step Right (FMS),Hurdle Step Left (FMS)"
+Inline Lunge Test,Baseline Physical Assessment,Walking Lunge (30s)
+Shoulder Immobility Assessment,,"Shoulder Immobility Right (FMS),Shoulder Immobility Left (FMS)"
+Active Straight-Leg Raise Test,,"Active Straight-Leg Raise Right (FMS),Active Straight-Leg Raise Left (FMS)"
+Trunk Stability Push-Up Test,Baseline Physical Assessment,Push Ups (30s)
+Rotary Stability Test,,"Rotary Stability Right (FMS),Rotary Stability Left (FMS)"
+Advanced Muscle Strength and Stability Assessment,Advanced Physical Assessment,"Squat 5RM (85%),Deadlift 5RM (85%),Bench 5RM (85%),Overhead Press 5RM (85%)"
+Multifocal Combination Assessment,Advanced Physical Assessment,"Max Pull Ups (30s),Max Tuck Jumps (30s),Farmer's Carry (50% BW)"
+Single Leg Squat,Baseline Physical Assessment,"Single Leg Squat (Left) (30s),Single Leg Squat (Right) (30s)"
